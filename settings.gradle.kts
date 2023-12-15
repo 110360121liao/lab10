@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "lab10"
+rootProject.name = "LAB10GoogleMap"
 include(":app")
  

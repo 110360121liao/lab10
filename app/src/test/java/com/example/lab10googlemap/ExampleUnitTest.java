@@ -1,4 +1,4 @@
-package com.example.lab10;
+package com.example.lab10googlemap;
 
 import org.junit.Test;
 
